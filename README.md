@@ -113,6 +113,10 @@
 
 [![Nasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=imshaiknasir&show_icons=true&theme=gruvbox)](https://i.giphy.com/media/cJuQTVK8g5f08Dc5ix/giphy-downsized.gif)
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imshaiknasir&langs_count=10&layout=compact)](https://i.giphy.com/media/65CzEe98OTg08fcfTI/giphy.webp)
+
   </div>
 </div>
 
