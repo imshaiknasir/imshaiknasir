@@ -108,27 +108,23 @@
 
 <br>
 
-
 <p align="center">
   <a href="https://github.com/imshaiknasir">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=imshaiknasir&theme=flag-india&hide_border=true&fire=DD2727&ring=DD2727"/>
   </a>
+
+<a href="https://github.com/imshaiknasir"><img alt="Nasir's Activity Graph" src="https://awesomeactivity.herokuapp.com/graph?username=imshaiknasir&theme=chartreuse-dark&custom_title=Nasir%27s%20Github%20Contribution%20Graph" /></a>
 </p>
 
 <div align="center">
   <div>
 
-[![Nasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=imshaiknasir&show_icons=true&theme=gruvbox)](https://i.giphy.com/media/cJuQTVK8g5f08Dc5ix/giphy-downsized.gif)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imshaiknasir&langs_count=10&layout=compact)](https://i.giphy.com/media/65CzEe98OTg08fcfTI/giphy.webp)
-
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=imshaiknasir&show_icons=true&theme=gruvbox"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshaiknasir&langs_count=10&layout=compact"/>
+</p>
   </div>
 </div>
-
-<a href="https://github.com/imshaiknasir"><img alt="Nasir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imshaiknasir&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 
 <details>
   <summary>Activity Metrics</summary>
@@ -136,8 +132,6 @@
 <p align="left"> <a href="https://github.com/imshaiknasir"><img src="https://metrics.lecoq.io/imshaiknasir?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" alt="imshaiknasir" /></a> </p>
 
 </details>
-
-
 
 <!--
 **imshaiknasir/imshaiknasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
