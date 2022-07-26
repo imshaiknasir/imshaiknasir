@@ -116,15 +116,15 @@
 <a href="https://github.com/imshaiknasir"><img alt="Nasir's Activity Graph" src="https://awesomeactivity.herokuapp.com/graph?username=imshaiknasir&theme=chartreuse-dark&custom_title=Nasir%27s%20Github%20Contribution%20Graph&bg_color=000&area=true&area_color=00FF00&radius=16&hide_border=true&line=00FF00&point=ff0000" /></a>
 </p>
 
+<!-- 
 <div align="center">
   <div>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=imshaiknasir&show_icons=true&theme=gruvbox"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshaiknasir&langs_count=10&layout=compact"/>
 </p>
   </div>
-</div>
+</div> -->
 
 <details>
   <summary>Activity Metrics</summary>
