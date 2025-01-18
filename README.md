@@ -115,7 +115,6 @@
 - **Platforms**: Ubuntu, Heroku
 
 ## Get in Touch
-<!-- Add your contact information and social media links here -->
 
 ---
 <div align="center">
