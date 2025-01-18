@@ -39,27 +39,6 @@ I'm a software developer 👨‍💻 passionate about web development and creati
 
 <br/>
 
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🧑‍💻 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🎟 Forks</b></td>
-      <td><b>🐛 Issues</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/imshaiknasir/project1"><b>Project 1</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/imshaiknasir/project1?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/imshaiknasir/project1?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/imshaiknasir/project1?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <!-- Add more project rows as needed -->
-  </tbody>
-</table>
-
 <a href="https://github.com/imshaiknasir">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=imshaiknasir" />
 </a>
