@@ -4,44 +4,103 @@
   <!-- Development Skills -->
   <div>
     <a href="https://python.org/" target="_blank">
-      <img src="/api/placeholder/58/48" alt="Python" width="58" height="48" />
+      <img
+        src="https://elias.eu.org/img/skills/python.svg"
+        alt="Python"
+        width="58"
+        height="48"
+      />
     </a>
     <a href="https://adoptopenjdk.net/" target="_blank">
-      <img src="/api/placeholder/58/48" alt="Java" width="58" height="48" />
+      <img
+        src="https://elias.eu.org/img/skills/java.svg"
+        alt="Java"
+        width="58"
+        height="48"
+      />
     </a>
     <a href="https://javascript.com" target="_blank">
-      <img src="/api/placeholder/58/48" alt="JavaScript" width="58" height="48" />
+      <img
+        src="https://elias.eu.org/img/skills/javascript.svg"
+        alt="JavaScript"
+        width="58"
+        height="48"
+      />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-      <img src="/api/placeholder/58/48" alt="HTML5" width="58" height="48" />
+      <img
+        src="https://elias.eu.org/img/skills/html5.svg"
+        alt="HTML5"
+        width="58"
+        height="48"
+      />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-      <img src="/api/placeholder/58/48" alt="CSS3" width="58" height="48" />
+      <img
+        src="https://elias.eu.org/img/skills/css3.svg"
+        alt="CSS3"
+        width="58"
+        height="48"
+      />
     </a>
     <a href="https://mongodb.com" target="_blank">
-      <img src="/api/placeholder/58/48" alt="MongoDB" width="58" height="48" />
+      <img
+        src="https://elias.eu.org/img/skills/mongodb.svg"
+        alt="MongoDB"
+        width="58"
+        height="48"
+      />
     </a>
   </div>
-
   <!-- Tools & Technologies -->
   <div>
     <a href="https://git-scm.com" target="_blank">
-      <img src="/api/placeholder/58/48" alt="Git" width="58" height="48" />
+      <img
+        src="https://elias.eu.org/img/skills/git.svg"
+        alt="Git"
+        width="58"
+        height="48"
+      />
     </a>
     <a href="https://github.com" target="_blank">
-      <img src="/api/placeholder/58/48" alt="GitHub" width="58" height="48" />
+      <img
+        src="https://elias.eu.org/img/skills/github.svg"
+        alt="GitHub"
+        width="58"
+        height="48"
+      />
     </a>
     <a href="https://docker.com" target="_blank">
-      <img src="/api/placeholder/58/48" alt="Docker" width="58" height="48" />
+      <img
+        src="https://elias.eu.org/img/skills/docker.svg"
+        alt="Docker"
+        width="58"
+        height="48"
+      />
     </a>
     <a href="https://heroku.com" target="_blank">
-      <img src="/api/placeholder/58/48" alt="Heroku" width="58" height="48" />
+      <img
+        src="https://elias.eu.org/img/skills/heroku.svg"
+        alt="Heroku"
+        width="58"
+        height="48"
+      />
     </a>
     <a href="https://code.visualstudio.com" target="_blank">
-      <img src="/api/placeholder/58/48" alt="VSCode" width="58" height="48" />
+      <img
+        src="https://elias.eu.org/img/skills/vscode.svg"
+        alt="VSCode"
+        width="58"
+        height="48"
+      />
     </a>
     <a href="https://ubuntu.com" target="_blank">
-      <img src="/api/placeholder/58/48" alt="Ubuntu" width="58" height="48" />
+      <img
+        src="https://elias.eu.org/img/skills/ubuntu.svg"
+        alt="Ubuntu"
+        width="58"
+        height="48"
+      />
     </a>
   </div>
 </div>
